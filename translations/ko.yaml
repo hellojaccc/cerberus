@@ -37,5 +37,5 @@ ko:
       근본적인 원인을 해결한 후(방법을 아는 경우) 페이지를 새로 고치거나, 몇 초 기다린 후 새로 고침해 보세요. 단, 너무 자주 새로 고침하면 IP 주소가 차단될 수 있으니 주의해 주세요.
     contact_us: "이것이 오류라고 생각되거나 질문이 있는 경우 %{mail}로 문의해 주세요. 조사를 돕기 위해 아래 표시된 요청 ID를 함께 첨부해 주시기 바랍니다."
   footer:
-    author: %{sjtug}의 %{cerberus}에 의해 보호됩니다.
-    upstream: 🇨🇦 %{techaro}의 %{anubis}에서 많은 영감을 받았습니다.
+    author: "%{sjtug}의 %{cerberus}에 의해 보호됩니다."
+    upstream: "🇨🇦 %{techaro}의 %{anubis}에서 많은 영감을 받았습니다."
